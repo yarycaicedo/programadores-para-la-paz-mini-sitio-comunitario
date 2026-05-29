@@ -86,7 +86,6 @@ async function cargarMensajes() {
 
         <p><strong>Llamado a la acción:</strong> ${mensaje.llamadoAccion}</p>
         <p class="texto-secundario"><strong>Fuente:</strong> ${mensaje.fuente}</p>
-        <p class="texto-secundario"><strong>Revisión editorial:</strong> ${mensaje.revisionEditorial}</p>
       `
 
       contenedorMensajes.appendChild(tarjeta)

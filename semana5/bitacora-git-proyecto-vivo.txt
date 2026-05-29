@@ -44,3 +44,21 @@ Respuesta: git commit -m "Clase 21 inicio proyecto unico mini sitio"
 
 14. Comando usado para publicar tu rama:
 Respuesta: git push -u origin yary_caicedo
+
+--- Actualización Clase 22 ---
+Fecha: 14/05/2026
+
+Comando usado para cambiar a main:
+Respuesta: git checkout main
+
+Comando usado para actualizar main:
+Respuesta: git pull --ff-only origin main
+
+Comando usado para volver a tu rama personal:
+Respuesta: git checkout yary_caicedo
+
+Comando usado para incorporar cambios de main:
+Respuesta: git merge main
+
+Comando usado para levantar el servidor:
+Respuesta: npm run sitio

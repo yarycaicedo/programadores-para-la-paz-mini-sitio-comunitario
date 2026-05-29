@@ -1,39 +1,30 @@
 Curaduría de datos visibles – Clase 22
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Yary Caicedo
+Fecha: 14/05/2026
+Nombre de la rama: yary_caicedo
 
 Revisa los datos disponibles en data/mensajes.json y data/calendario-editorial.json.
 
 1. ¿Qué datos sí deben mostrarse públicamente en el tablero de mensajes?
-
-Respuesta:
+Respuesta: Deben mostrarse el título, el mensaje, la categoría, la audiencia, el tono, el llamado a la acción y la fuente. Estos datos son suficientes para que la comunidad entienda y verifique la información.
 
 2. ¿Qué datos no deberían mostrarse públicamente o deben mostrarse con cuidado?
-
-Respuesta:
+Respuesta: El responsable interno, las observaciones editoriales, el estado interno y los comentarios de revisión no deben mostrarse públicamente porque son datos de gestión interna que no aportan valor al ciudadano y pueden generar confusión.
 
 3. ¿Por qué no todo lo que está en el JSON debe aparecer en la vista pública?
-
-Respuesta:
+Respuesta: Porque un JSON puede contener datos técnicos, administrativos o internos que solo sirven para la gestión del equipo editorial. Mostrar todo puede saturar al usuario, generar confusión o exponer información que no es relevante para la comunidad.
 
 4. ¿Qué datos ayudan a la comunidad a entender el mensaje?
-
-Respuesta:
+Respuesta: El título y el mensaje son los datos principales que permiten entender de qué trata el aviso. La categoría y la audiencia ayudan a identificar a quién va dirigido y en qué contexto se enmarca.
 
 5. ¿Qué datos ayudan a verificar la información?
-
-Respuesta:
+Respuesta: La fuente es el dato más importante para verificar la información, ya que permite al ciudadano consultar el origen del mensaje y confirmar su veracidad.
 
 6. ¿Qué datos podrían ser internos para revisión editorial?
-
-Respuesta:
+Respuesta: El responsable interno, las observaciones editoriales, el estado de publicación y los comentarios de revisión son datos que solo necesita el equipo editorial para gestionar y aprobar los mensajes antes de publicarlos.
 
 7. ¿Cómo se relaciona la minimización de datos visibles con la confianza comunitaria?
-
-Respuesta:
+Respuesta: Mostrar solo la información necesaria genera confianza porque la comunidad percibe que la plataforma es clara, ordenada y responsable. Exponer demasiados datos o datos innecesarios puede generar desconfianza, confusión o la sensación de que la información no está bien gestionada.
 
 8. Escribe una regla de curaduría para el tablero:
-
-Respuesta:
+Respuesta: Solo se publicará en la vista pública la información que sea útil para que la comunidad entienda, actúe y verifique el mensaje. Todo dato interno de gestión editorial permanecerá fuera de la vista pública para garantizar claridad, seguridad visual y confianza comunitaria.

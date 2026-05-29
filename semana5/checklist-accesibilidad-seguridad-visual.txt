@@ -1,67 +1,47 @@
+Perfecto. Copia este texto, reemplaza todo y guárdalo:
 Checklist de accesibilidad y seguridad visual – Clase 22
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Yary Caicedo
+Fecha: 14/05/2026
+Nombre de la rama: yary_caicedo
 
 Marca SÍ o NO y explica brevemente.
 
 1. Tablero de mensajes
-
 ¿La interfaz funciona como vitrina comunitaria clara?
-
-Respuesta:
+Respuesta: SÍ. El tablero presenta los mensajes de forma organizada y accesible, funcionando como una vitrina donde la comunidad puede encontrar información relevante fácilmente.
 
 2. Accesibilidad mínima
-
 ¿Los títulos son comprensibles y las secciones están separadas?
-
-Respuesta:
+Respuesta: SÍ. Cada sección tiene un título claro y está visualmente separada de las demás, lo que facilita la navegación.
 
 3. Legibilidad
-
 ¿Los textos se pueden leer con facilidad?
-
-Respuesta:
+Respuesta: SÍ. Los textos usan un tamaño adecuado y un tipo de letra legible que permite leerlos sin dificultad.
 
 4. Contraste suficiente
-
 ¿El texto se distingue del fondo?
-
-Respuesta:
+Respuesta: SÍ. El texto oscuro sobre fondo claro genera suficiente contraste para que cualquier persona pueda leerlo sin esfuerzo.
 
 5. Jerarquía visual
-
 ¿Se entiende qué información es principal y qué información es secundaria?
-
-Respuesta:
+Respuesta: SÍ. El título del mensaje aparece destacado y los demás datos como categoría y fuente se presentan como información complementaria.
 
 6. Lenguaje claro
-
 ¿Los mensajes son comprensibles para una comunidad general?
-
-Respuesta:
+Respuesta: SÍ. Los mensajes usan palabras sencillas y directas que cualquier persona puede entender sin necesitar conocimientos técnicos.
 
 7. Organización visual coherente
-
 ¿Las tarjetas mantienen una estructura similar?
-
-Respuesta:
+Respuesta: SÍ. Todas las tarjetas siguen el mismo formato visual con los mismos campos, lo que hace la lectura predecible y ordenada.
 
 8. Seguridad visual
-
 ¿La vista pública evita saturación, confusión o exposición innecesaria?
-
-Respuesta:
+Respuesta: SÍ. La interfaz presenta solo la información necesaria sin saturar al usuario con demasiados datos o elementos visuales.
 
 9. Minimización de datos visibles
-
 ¿La página muestra solo la información necesaria?
-
-Respuesta:
+Respuesta: SÍ. Los datos internos como responsable interno y observaciones editoriales no se muestran en la vista pública, solo aparece lo que la comunidad necesita ver.
 
 10. Lenguaje responsable y no estigmatizante
-
 ¿Los mensajes evitan insultos, generalizaciones, alarmismo o señalamientos sin evidencia?
-
-Respuesta:
+Respuesta: SÍ. Los mensajes usan un lenguaje respetuoso, informativo y neutral que promueve la convivencia y evita generar alarma o discriminación.
