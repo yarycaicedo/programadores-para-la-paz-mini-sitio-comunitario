@@ -2,7 +2,7 @@
     {
       "id": 1,
       "titulo": "Verifica antes de compartir",
-      "mensaje": "Antes de reenviar información, revisa la fuente, confirma la fecha y evita mensajes alarmistas.",
+      "mensaje": "Antes de reenviar información, revisa la fuente, confirma la fecha y evita mensajes alarmistas. La comunidad depende de información verificada para tomar buenas decisiones.",
       "categoria": "prevencion-desinformacion",
       "audiencia": "comunidad general",
       "tono": "preventivo",
@@ -33,4 +33,3 @@
       "revisionEditorial": "aprobada"
     }
   ]
-  

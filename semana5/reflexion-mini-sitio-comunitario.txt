@@ -1,33 +1,26 @@
 Reflexión sobre mini-sitio comunitario – Clase 21
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
-
-Escribe una reflexión de 8 a 10 líneas respondiendo:
-
-¿Por qué un mini-sitio que consume una API puede ayudar a una comunidad a difundir información de forma responsable, organizada y verificable?
-
-En tu respuesta menciona al menos cinco de estas ideas:
-
-- proyecto único en GitHub
-- rama main
-- rama personal
-- git pull origin main
-- fast-forward
-- async
-- await
-- fetch
-- API
-- JSON
-- difusión responsable
-- planificación del calendario editorial
-- calendario editorial
-- revisión de fuentes
-- consistencia comunicativa
-- moderación editorial básica
-- lenguaje responsable y no estigmatizante
-- participación ciudadana
-- cultura de paz
+Nombre del estudiante: Yary Caicedo
+Fecha: 13/05/2026
+Nombre de la rama: yary_caicedo
 
 Respuesta:
+Un mini-sitio que consume una API puede transformar la forma en que una comunidad
+accede y comparte información, porque permite publicar contenido organizado,
+verificado y actualizado desde un solo lugar. En esta clase aprendí que usando
+async y await el mini-sitio puede consultar la API y mostrar los mensajes y el
+calendario editorial de forma clara y ordenada.
+
+Trabajar con un proyecto único en GitHub desde la Clase 21 hasta la Clase 25
+me enseñó la importancia de mantener la rama main limpia y actualizada, mientras
+cada estudiante trabaja en su rama personal sin interferir con el proyecto base.
+El comando git pull origin main permite traer los cambios nuevos de forma
+ordenada, y cuando ocurre un fast-forward significa que la actualización fue
+limpia y sin conflictos.
+
+Desde comunicaciones, entendí que la difusión responsable no es solo publicar
+información, sino planificarla con un calendario editorial que defina qué se
+publica, cuándo, por qué canal y con qué propósito. La revisión de fuentes y
+la moderación editorial básica garantizan que cada mensaje cumpla con criterios
+de lenguaje responsable y no estigmatizante, lo cual es fundamental para
+construir una cultura de paz y fortalecer la participación ciudadana en espacios
+digitales seguros y confiables.

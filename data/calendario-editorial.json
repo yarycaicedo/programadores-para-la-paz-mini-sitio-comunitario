@@ -13,8 +13,8 @@
       "tono": "preventivo",
       "llamadoAccion": "Verifica la fuente antes de compartir.",
       "fuente": "Canal institucional comunitario",
-      "responsable": "Equipo de comunicaciones",
-      "observaciones": "Confirmar fuente, fecha y responsable antes de publicar."
+      "responsable": "Yary Caicedo",
+      "observaciones": "Confirmar fuente, fecha y responsable antes de publicar. Usar lenguaje claro y accesible para toda la comunidad."
     },
     {
       "id": 2,
@@ -102,4 +102,3 @@
       "observaciones": "Revisar consistencia con piezas anteriores."
     }
   ]
-  

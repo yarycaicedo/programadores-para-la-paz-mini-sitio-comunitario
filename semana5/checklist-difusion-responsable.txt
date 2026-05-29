@@ -1,79 +1,54 @@
 Checklist de difusión responsable – Clase 21
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Yary Caicedo
+Fecha: 13/05/2026
+Nombre de la rama: yary_caicedo
 
 Marca SÍ o NO y explica brevemente.
 
 1. Difusión responsable
-
 ¿El mensaje aporta información útil para la comunidad?
-
-Respuesta:
+Respuesta: SÍ. Los mensajes del mini-sitio aportan información verificada sobre prevención de desinformación, convivencia digital y participación ciudadana.
 
 2. Planificación del calendario editorial
-
 ¿La publicación está organizada por fecha, canal, responsable y propósito?
-
-Respuesta:
+Respuesta: SÍ. El calendario editorial tiene definidos el día, canal, público objetivo, propósito y responsable para cada pieza.
 
 3. Calendario editorial
-
 ¿La pieza está ubicada dentro de una secuencia de publicaciones de dos semanas?
-
-Respuesta:
+Respuesta: SÍ. El calendario cubre dos semanas con seis piezas distribuidas los lunes, miércoles y viernes de cada semana.
 
 4. Revisión de fuentes
-
 ¿El mensaje indica fuente o criterio de verificación cuando hace afirmaciones?
-
-Respuesta:
+Respuesta: SÍ. Cada mensaje y pieza del calendario incluye el campo fuente con el origen de la información.
 
 5. Consistencia comunicativa
-
 ¿El mensaje mantiene coherencia con el propósito general de la campaña?
-
-Respuesta:
+Respuesta: SÍ. Todos los mensajes están alineados con el tema general de comunicación digital responsable para la paz y la convivencia comunitaria.
 
 6. Consistencia editorial
-
 ¿El tono, el lenguaje y el llamado a la acción son coherentes con las demás piezas?
-
-Respuesta:
+Respuesta: SÍ. Los tonos usados son preventivo, pedagógico, informativo y convocante, todos adecuados para una campaña comunitaria responsable.
 
 7. Moderación editorial básica
-
 ¿El mensaje debería revisarse antes de publicarse?
-
-Respuesta:
+Respuesta: SÍ. Todos los mensajes tienen el campo revisionEditorial en aprobada, lo que indica que pasaron por revisión antes de publicarse.
 
 8. Público objetivo
-
 ¿Está claro a quién va dirigido?
-
-Respuesta:
+Respuesta: SÍ. Cada mensaje y pieza del calendario indica claramente su público objetivo, ya sea comunidad general, jóvenes participantes o líderes comunitarios.
 
 9. Tono
-
 ¿El tono es adecuado para la audiencia?
-
-Respuesta:
+Respuesta: SÍ. El tono de cada pieza fue elegido según el público al que va dirigido y el propósito del mensaje.
 
 10. Llamado a la acción
-
 ¿La persona que lee sabe qué hacer después?
-
-Respuesta:
+Respuesta: SÍ. Cada mensaje incluye un llamado a la acción claro y concreto que indica qué se espera de la persona que lo lee.
 
 11. Lenguaje responsable y no estigmatizante
-
 ¿El mensaje evita insultos, generalizaciones, alarmismo, exclusión o señalamientos sin evidencia?
-
-Respuesta:
+Respuesta: SÍ. Todos los mensajes usan lenguaje respetuoso, claro y no estigmatizante, sin señalar ni culpar a ningún grupo.
 
 12. Minimización de datos
-
 ¿El mensaje evita publicar datos personales innecesarios?
-
-Respuesta:
+Respuesta: SÍ. Ningún mensaje incluye datos personales de los participantes ni información sensible que pueda comprometer la privacidad de la comunidad.

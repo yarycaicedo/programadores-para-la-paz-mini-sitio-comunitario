@@ -1,47 +1,36 @@
 Conceptos básicos de async y await – Clase 21
-
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Yary Caicedo
+Fecha: 13/05/2026
+Nombre de la rama: yary_caicedo
 
 Responde con tus propias palabras.
 
 1. ¿Qué es una promesa en JavaScript?
-
-Respuesta:
+Respuesta: Una promesa es una tarea que puede terminar después. Representa una operación que no llega de inmediato y que cuando termina puede ser exitosa o fallar.
 
 2. ¿Qué significa async?
-
-Respuesta:
+Respuesta: async indica que una función va a realizar tareas que toman tiempo, como esperar respuestas de un servidor, y que puede usar await dentro de ella.
 
 3. ¿Qué significa await?
-
-Respuesta:
+Respuesta: await le dice al programa que espere a que una tarea termine antes de continuar con la siguiente línea, como esperar a que el servidor responda antes de mostrar los datos.
 
 4. ¿Por qué fetch devuelve una promesa?
-
-Respuesta:
+Respuesta: Porque la respuesta del servidor no llega instantáneamente, entonces fetch promete traer esa respuesta cuando esté lista y el programa debe esperar.
 
 5. ¿Qué diferencia viste entre .then() y async/await?
-
-Respuesta:
+Respuesta: Con .then() se encadenan acciones una después de otra, mientras que async/await hace que el código se lea de forma más lineal y fácil de entender, como si fuera paso a paso.
 
 6. ¿Qué hace try en esta práctica?
-
-Respuesta:
+Respuesta: try intenta ejecutar el código para consultar la API y mostrar los datos en pantalla. Si algo funciona correctamente, el programa continúa normalmente.
 
 7. ¿Qué hace catch en esta práctica?
-
-Respuesta:
+Respuesta: catch captura cualquier error que ocurra dentro del try y muestra un mensaje claro para que la persona sepa que algo falló sin que el programa se detenga completamente.
 
 8. ¿Qué ruta se usa para cargar mensajes?
-
-Respuesta:
+Respuesta: GET /api/mensajes
 
 9. ¿Qué ruta se usa para cargar calendario editorial?
-
-Respuesta:
+Respuesta: GET /api/calendario
 
 10. ¿Cómo ayuda async y await a leer mejor el código?
-
-Respuesta:
+Respuesta: Porque permite escribir el código de forma secuencial, como una lista de pasos ordenados, en lugar de anidar múltiples .then() que pueden ser difíciles de seguir, especialmente para personas que están aprendiendo a programar.
