@@ -1,8 +1,8 @@
 Checklist de API propia – Clase 23
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Yary Caicedo
+Fecha: 15/05/2026
+Nombre de la rama: yary_caicedo
 
 Marca SÍ o NO y explica brevemente.
 
@@ -10,58 +10,58 @@ Marca SÍ o NO y explica brevemente.
 
 ¿El frontend consulta información del backend?
 
-Respuesta:
+Respuesta: SÍ. El frontend utiliza fetch para consultar las rutas del backend y obtener los datos que se muestran en el tablero.
 
 2. Consumo de la API propia
 
 ¿La página usa rutas del mismo proyecto?
 
-Respuesta:
+Respuesta: SÍ. La página consulta rutas propias como /api/mensajes, /api/calendario y /api/resumen.
 
 3. Mensajes dinámicos
 
 ¿Los mensajes aparecen desde datos consultados y no solo desde HTML fijo?
 
-Respuesta:
+Respuesta: SÍ. Los mensajes se cargan desde archivos JSON a través de la API y se muestran dinámicamente en el navegador.
 
 4. Ruta GET /api/mensajes
 
 ¿La ruta responde correctamente?
 
-Respuesta:
+Respuesta: SÍ. La ruta mostró correctamente los mensajes comunitarios en formato JSON.
 
 5. Ruta GET /api/calendario
 
 ¿La ruta responde correctamente?
 
-Respuesta:
+Respuesta: SÍ. La ruta respondió con las piezas del calendario editorial en formato JSON.
 
 6. Ruta GET /api/resumen
 
 ¿La ruta responde correctamente?
 
-Respuesta:
+Respuesta: SÍ. La ruta generó y mostró un resumen con totales y categorías del proyecto.
 
 7. Respuesta JSON
 
 ¿Las rutas entregan datos estructurados?
 
-Respuesta:
+Respuesta: SÍ. Todas las rutas entregan información organizada en formato JSON.
 
 8. Render dinámico
 
 ¿El tablero muestra datos recibidos desde la API?
 
-Respuesta:
+Respuesta: SÍ. El tablero crea tarjetas dinámicamente utilizando los datos recibidos desde las rutas de la API.
 
 9. Diagnóstico básico
 
 ¿Sabes qué revisar si no carga la información?
 
-Respuesta:
+Respuesta: SÍ. Debo verificar que el servidor esté ejecutándose, revisar las rutas de la API, comprobar los archivos JSON y revisar posibles errores en app.js.
 
 10. Comunicación responsable
 
 ¿Los datos dinámicos mantienen claridad, fuente y lenguaje adecuado?
 
-Respuesta:
+Respuesta: SÍ. Los mensajes muestran información clara, incluyen fuente y utilizan lenguaje respetuoso y no estigmatizante.

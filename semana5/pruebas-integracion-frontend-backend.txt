@@ -1,8 +1,8 @@
 Pruebas de integración Frontend-Backend – Clase 23
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Yary Caicedo
+Fecha: 15/05/2026
+Nombre de la rama: yary_caicedo
 
 Prueba 1: Backend activo
 
@@ -13,9 +13,10 @@ Resultado esperado:
 El servidor inicia en http://localhost:3000 y muestra las rutas disponibles.
 
 Resultado observado:
+El servidor inició correctamente y mostró las rutas GET /api/mensajes, GET /api/calendario, GET /api/resumen, POST /api/login y GET /api/revision-editorial.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: SÍ.
 
 Prueba 2: Ruta GET /api/mensajes
 
@@ -26,9 +27,10 @@ Resultado esperado:
 El navegador muestra datos JSON de mensajes comunitarios.
 
 Resultado observado:
+El navegador mostró correctamente los tres mensajes comunitarios en formato JSON con título, mensaje, categoría, audiencia, tono, fuente y revisión editorial.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: SÍ.
 
 Prueba 3: Ruta GET /api/calendario
 
@@ -39,9 +41,10 @@ Resultado esperado:
 El navegador muestra datos JSON del calendario editorial.
 
 Resultado observado:
+El navegador mostró correctamente las seis piezas del calendario editorial con tema, canal, público objetivo, propósito y fuente.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: SÍ.
 
 Prueba 4: Ruta GET /api/resumen
 
@@ -52,9 +55,10 @@ Resultado esperado:
 El navegador muestra un resumen generado por la API propia.
 
 Resultado observado:
+El navegador mostró el total de mensajes, total de piezas del calendario, categorías registradas y un mensaje generado por la API propia.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: SÍ.
 
 Prueba 5: Frontend carga mensajes
 
@@ -65,9 +69,10 @@ Resultado esperado:
 El tablero muestra mensajes dinámicos desde la API.
 
 Resultado observado:
+El tablero mostró correctamente los mensajes comunitarios. Además, el cambio realizado en el título del primer mensaje apareció reflejado en pantalla.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: SÍ.
 
 Prueba 6: Frontend carga calendario
 
@@ -78,9 +83,10 @@ Resultado esperado:
 El tablero muestra piezas del calendario desde la API.
 
 Resultado observado:
+El tablero mostró correctamente las piezas del calendario editorial organizadas en tarjetas dinámicas.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: SÍ.
 
 Prueba 7: Frontend carga resumen
 
@@ -91,11 +97,13 @@ Resultado esperado:
 La página muestra totales generados por el backend.
 
 Resultado observado:
+La página mostró el total de mensajes, total de piezas del calendario y las categorías registradas en el proyecto.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: SÍ.
 
 Conclusión:
 ¿Cómo comprobaste que el frontend está conectado con el backend?
 
 Respuesta:
+Comprobé la integración porque los datos mostrados en el navegador coincidieron con la información entregada por las rutas de la API propia. Además, al modificar el archivo data/mensajes.json, reiniciar el servidor y volver a cargar los mensajes, el cambio apareció automáticamente en el tablero. Esto demuestra que el backend entrega los datos mediante rutas JSON y que el frontend los consume usando fetch, async y await para mostrarlos dinámicamente.
