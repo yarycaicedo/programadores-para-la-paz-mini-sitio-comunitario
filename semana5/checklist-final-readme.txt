@@ -1,3 +1,5 @@
+Checklist final del README – Clase 25
+
 Nombre del estudiante: Yary Caicedo
 Fecha: 20-05-2026
 Nombre de la rama: yary_caicedo

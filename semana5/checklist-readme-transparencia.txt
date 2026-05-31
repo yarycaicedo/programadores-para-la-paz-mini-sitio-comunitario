@@ -1,7 +1,9 @@
 Checklist README y transparencia – Clase 24
+
 Nombre del estudiante: Yary Caicedo
 Fecha: 19/05/2026
 Nombre de la rama: yary_caicedo
+
 Marca SÍ o NO y explica brevemente.
 
 README

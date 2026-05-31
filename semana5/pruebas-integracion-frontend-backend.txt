@@ -105,5 +105,4 @@ Respuesta: SÍ.
 Conclusión:
 ¿Cómo comprobaste que el frontend está conectado con el backend?
 
-Respuesta:
-Comprobé la integración porque los datos mostrados en el navegador coincidieron con la información entregada por las rutas de la API propia. Además, al modificar el archivo data/mensajes.json, reiniciar el servidor y volver a cargar los mensajes, el cambio apareció automáticamente en el tablero. Esto demuestra que el backend entrega los datos mediante rutas JSON y que el frontend los consume usando fetch, async y await para mostrarlos dinámicamente.
+Respuesta: comprobé la integración porque los datos mostrados en el navegador coincidieron con la información entregada por las rutas de la API propia. Además, al modificar el archivo data/mensajes.json, reiniciar el servidor y volver a cargar los mensajes, el cambio apareció automáticamente en el tablero. Esto demuestra que el backend entrega los datos mediante rutas JSON y que el frontend los consume usando fetch, async y await para mostrarlos dinámicamente.

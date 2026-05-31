@@ -58,28 +58,23 @@ Se mostró el mensaje de acceso permitido con recomendaciones editoriales.
 ¿Funcionó?
 Sí.
 
-Respuesta:
-El middleware permitió el acceso porque el token era válido.
+Respuesta: el middleware permitió el acceso porque el token era válido.
 
 Prueba 4: Token incorrecto
 
 Explica qué debería pasar si el token no coincide con el esperado.
 
-Respuesta:
-El sistema debe rechazar el acceso con error 403 y mostrar mensaje de token inválido.
+Respuesta: el sistema debe rechazar el acceso con error 403 y mostrar mensaje de token inválido.
 
 5. ¿Qué hace el middleware simple?
 
-Respuesta:
-Revisa si existe un token en la petición y valida si es correcto antes de permitir el acceso a una ruta.
+Respuesta: revisa si existe un token en la petición y valida si es correcto antes de permitir el acceso a una ruta.
 
 6. ¿Por qué este middleware no debe confundirse con seguridad real?
 
-Respuesta:
-Porque es solo pedagógico, no cifra información ni protege realmente un sistema en producción.
+Respuesta: porque es solo pedagógico, no cifra información ni protege realmente un sistema en producción.
 
 7. ¿Qué aprendiste sobre rutas públicas y rutas protegidas?
 
-Respuesta:
-Las rutas públicas se pueden acceder sin autenticación, mientras que las rutas protegidas requieren un token válido para acceder.
+Respuesta: las rutas públicas se pueden acceder sin autenticación, mientras que las rutas protegidas requieren un token válido para acceder.
 

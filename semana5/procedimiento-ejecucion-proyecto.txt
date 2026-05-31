@@ -9,33 +9,25 @@ Nombre de la rama: yary_caicedo
 ¿Qué debe tener instalado la persona?
 Ejemplos: Git, Node.js, navegador, editor de código.
 
-Respuesta:
-
-La persona debe tener instalado Git, Node.js, un navegador web moderno y un editor de código como Visual Studio Code.
+Respuesta: la persona debe tener instalado Git, Node.js, un navegador web moderno y un editor de código como Visual Studio Code.
 
 2. Clonar repositorio
 
 Comando:
 
-Respuesta:
-
-git clone URL_DEL_REPOSITORIO
+Respuesta: git clone URL_DEL_REPOSITORIO
 
 3. Entrar a la carpeta del proyecto
 
 Comando:
 
-Respuesta:
-
-cd programadores-para-la-paz-mini-sitio-comunitario
+Respuesta: cd programadores-para-la-paz-mini-sitio-comunitario
 
 4. Crear o cambiar a rama personal
 
 Comando:
 
-Respuesta:
-
-git checkout -b nombres_apellidos
+Respuesta: git checkout -b nombres_apellidos
 
 o
 
@@ -45,25 +37,19 @@ git checkout nombres_apellidos
 
 Comando:
 
-Respuesta:
-
-npm install
+Respuesta: npm install
 
 6. Ejecutar el proyecto
 
 Comando:
 
-Respuesta:
-
-npm run sitio
+Respuesta: npm run sitio
 
 7. Abrir en navegador
 
 Dirección:
 
-Respuesta:
-
-http://localhost:3000
+Respuesta: http://localhost:3000
 
 8. Probar rutas de la API
 
@@ -95,14 +81,10 @@ El sistema muestra el mensaje "Login pedagógico correcto. Ya puedes probar la r
 
 ¿Cómo sabe la persona que el proyecto está funcionando?
 
-Respuesta:
-
-El proyecto funciona correctamente cuando el servidor inicia sin errores, las rutas de la API responden datos JSON, el tablero carga información dinámica y el login pedagógico responde correctamente.
+Respuesta: el proyecto funciona correctamente cuando el servidor inicia sin errores, las rutas de la API responden datos JSON, el tablero carga información dinámica y el login pedagógico responde correctamente.
 
 11. Nota de seguridad
 
 ¿Qué información NO debe publicarse?
 
-Respuesta:
-
-No se deben publicar contraseñas reales, tokens reales, datos personales, credenciales privadas, información sensible de la comunidad ni contenido sin verificar.
+Respuesta: no se deben publicar contraseñas reales, tokens reales, datos personales, credenciales privadas, información sensible de la comunidad ni contenido sin verificar.

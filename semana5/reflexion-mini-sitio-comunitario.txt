@@ -3,9 +3,33 @@ Nombre del estudiante: Yary Caicedo
 Fecha: 13/05/2026
 Nombre de la rama: yary_caicedo
 
-Respuesta:
-Un mini-sitio que consume una API puede transformar la forma en que una comunidad
-accede y comparte información, porque permite publicar contenido organizado,
+Escribe una reflexión de 8 a 10 líneas respondiendo:
+
+¿Por qué un mini-sitio que consume una API puede ayudar a una comunidad a difundir información de forma responsable, organizada y verificable?
+
+En tu respuesta menciona al menos cinco de estas ideas:
+
+- proyecto único en GitHub
+- rama main
+- rama personal
+- git pull origin main
+- fast-forward
+- async
+- await
+- fetch
+- API
+- JSON
+- difusión responsable
+- planificación del calendario editorial
+- calendario editorial
+- revisión de fuentes
+- consistencia comunicativa
+- moderación editorial básica
+- lenguaje responsable y no estigmatizante
+- participación ciudadana
+- cultura de paz
+
+Respuesta: un mini-sitio que consume una API puede transformar la forma en que una comunidad accede y comparte información, porque permite publicar contenido organizado,
 verificado y actualizado desde un solo lugar. En esta clase aprendí que usando
 async y await el mini-sitio puede consultar la API y mostrar los mensajes y el
 calendario editorial de forma clara y ordenada.

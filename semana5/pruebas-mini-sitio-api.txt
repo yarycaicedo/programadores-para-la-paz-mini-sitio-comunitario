@@ -1,50 +1,66 @@
 Pruebas del mini-sitio y API – Clase 21
+
 Nombre del estudiante: Yary Caicedo
 Fecha: 13/05/2026
 Nombre de la rama: yary_caicedo
 
 Prueba 1: Abrir mini-sitio
+
 Dirección:
 http://localhost:3000
+
 Resultado esperado:
 El navegador muestra el mini-sitio comunitario.
+
 Resultado observado:
+
 El navegador mostró correctamente el mini-sitio comunitario con todas sus secciones.
+
 ¿Funcionó?
 Respuesta: Sí, funcionó correctamente.
 
 Prueba 2: Cargar mensajes
+
 Acción:
 Hacer clic en Cargar mensajes.
+
 Resultado esperado:
-Aparecen mensajes comunitarios con título, mensaje, categoría, audiencia, tono, llamado a la acción y fuente.
-Resultado observado:
-Aparecieron los 3 mensajes comunitarios con todos sus campos correctamente mostrados en pantalla.
+Aparecen mensajes comunitarios con título, mensaje, categoría, audiencia, tono, llamado a 
+la acción y fuente.
+
+Resultado observado: aparecieron los 3 mensajes comunitarios con todos sus campos correctamente mostrados en pantalla.
+
 ¿Funcionó?
 Respuesta: Sí, funcionó correctamente.
 
 Prueba 3: Cargar calendario editorial
+
 Acción:
 Hacer clic en Cargar calendario.
+
 Resultado esperado:
 Aparecen 6 piezas del calendario editorial.
-Resultado observado:
-Aparecieron las 6 piezas del calendario editorial con tema, pieza, canal, público objetivo, propósito y llamado a la acción.
+
+Resultado observado: aparecieron las 6 piezas del calendario editorial con tema, pieza, canal, público objetivo, propósito y llamado a la acción.
+
 ¿Funcionó?
 Respuesta: Sí, funcionó correctamente.
 
 Prueba 4: Ruta directa de mensajes
+
 Ruta:
 http://localhost:3000/api/mensajes
-Resultado observado:
-La API devolvió correctamente el array JSON con los 3 mensajes comunitarios y todos sus campos.
+
+Resultado observado: la API devolvió correctamente el array JSON con los 3 mensajes comunitarios y todos sus campos.
 
 Prueba 5: Ruta directa de calendario
+
 Ruta:
 http://localhost:3000/api/calendario
-Resultado observado:
-La API devolvió correctamente el array JSON con las 6 piezas del calendario editorial y todos sus campos.
+
+Resultado observado: la API devolvió correctamente el array JSON con las 6 piezas del calendario editorial y todos sus campos.
 
 Conclusión:
 ¿Qué prueba te ayudó más a entender cómo el mini-sitio consume la API?
-Respuesta: La prueba de ruta directa me ayudó más a entender cómo funciona la API, porque pude ver exactamente los datos en formato JSON que el servidor devuelve y que luego el mini-sitio usa para mostrarlos de forma organizada en pantalla.
+
+Respuesta: la prueba de ruta directa me ayudó más a entender cómo funciona la API, porque pude ver exactamente los datos en formato JSON que el servidor devuelve y que luego el mini-sitio usa para mostrarlos de forma organizada en pantalla.

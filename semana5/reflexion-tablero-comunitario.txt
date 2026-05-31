@@ -4,9 +4,28 @@ Nombre del estudiante: Yary Caicedo
 Fecha: 14/05/2026
 Nombre de la rama: yary_caicedo
 
-Respuesta:
 
-Un tablero de mensajes claro, accesible y seguro visualmente ayuda a que la
+Escribe una reflexión de 8 a 10 líneas respondiendo:
+
+¿Por qué una comunidad necesita un tablero de mensajes claro, accesible y seguro visualmente?
+
+En tu respuesta menciona al menos cinco de estas ideas:
+
+- tablero de mensajes
+- vitrina comunitaria
+- accesibilidad mínima
+- legibilidad
+- jerarquía visual
+- seguridad visual
+- minimización de datos visibles
+- curaduría de información
+- lenguaje claro
+- lenguaje responsable y no estigmatizante
+- confianza comunitaria
+- participación ciudadana
+- cultura de paz
+
+Respuesta: un tablero de mensajes claro, accesible y seguro visualmente ayuda a que la
 comunidad pueda comprender la información sin confusión ni sobrecarga visual.
 La vitrina comunitaria permite organizar mensajes importantes utilizando
 criterios de accesibilidad mínima, legibilidad y jerarquía visual para que las

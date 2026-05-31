@@ -1,6 +1,5 @@
-Aquí tienes el archivo completo listo para copiar:
-
 Pruebas de login pedagógico – Clase 24
+
 Nombre del estudiante: Yary Caicedo
 Fecha: 19/05/2026
 Nombre de la rama: yary_caicedo
@@ -59,10 +58,8 @@ El servidor devuelve el token de demostración token-pedagogico-demo, que se alm
 
 5. ¿Por qué este token no debe confundirse con seguridad real?
 
-Respuesta:
-Porque es un token fijo de demostración que no cifra información ni protege datos reales. Cualquier persona que conozca el token podría usarlo, por lo que no representa un sistema de autenticación seguro para producción.
+Respuesta: porque es un token fijo de demostración que no cifra información ni protege datos reales. Cualquier persona que conozca el token podría usarlo, por lo que no representa un sistema de autenticación seguro para producción.
 
 6. ¿Para qué se usará este login en la Clase 25?
 
-Respuesta:
-En la Clase 25 se usará para probar el middleware simple, que verifica si existe un token válido antes de permitir el acceso a la ruta protegida de revisión editorial pedagógica.
+Respuesta: en la Clase 25 se usará para probar el middleware simple, que verifica si existe un token válido antes de permitir el acceso a la ruta protegida de revisión editorial pedagógica.

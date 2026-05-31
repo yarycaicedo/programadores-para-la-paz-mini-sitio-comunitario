@@ -1,4 +1,5 @@
 Curaduría de datos visibles – Clase 22
+
 Nombre del estudiante: Yary Caicedo
 Fecha: 14/05/2026
 Nombre de la rama: yary_caicedo
