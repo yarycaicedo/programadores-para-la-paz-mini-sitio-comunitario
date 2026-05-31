@@ -1,8 +1,9 @@
-Pruebas de login pedagógico – Clase 24
+Aquí tienes el archivo completo listo para copiar:
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Pruebas de login pedagógico – Clase 24
+Nombre del estudiante: Yary Caicedo
+Fecha: 19/05/2026
+Nombre de la rama: yary_caicedo
 
 Importante:
 Este login es solo pedagógico. No es autenticación real.
@@ -13,15 +14,15 @@ Dirección:
 http://localhost:3000
 
 Resultado observado:
+El mini-sitio abrió correctamente en el navegador mostrando todas las secciones del proyecto comunitario.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Sí.
 
 Prueba 2: Login con credenciales de demostración
 
 Usuario:
 docente
-
 Clave:
 demo
 
@@ -29,15 +30,15 @@ Resultado esperado:
 El servidor responde con mensaje de login pedagógico correcto.
 
 Resultado observado:
+El servidor respondió con el mensaje "Login pedagógico correcto. Ya puedes probar la ruta protegida." y guardó el token de demostración en el navegador.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Sí.
 
 Prueba 3: Login con clave incorrecta
 
 Usuario:
 docente
-
 Clave:
 incorrecta
 
@@ -45,20 +46,23 @@ Resultado esperado:
 El servidor responde que usuario o clave son incorrectos.
 
 Resultado observado:
+El servidor respondió con un mensaje indicando que el usuario o la clave son incorrectos y no generó ningún token.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Sí.
 
 Prueba 4: Revisar almacenamiento del token de demostración
 
 ¿Qué token de demostración devuelve el servidor?
-
 Respuesta:
+El servidor devuelve el token de demostración token-pedagogico-demo, que se almacena en el navegador para usarse en las rutas protegidas.
 
 5. ¿Por qué este token no debe confundirse con seguridad real?
 
 Respuesta:
+Porque es un token fijo de demostración que no cifra información ni protege datos reales. Cualquier persona que conozca el token podría usarlo, por lo que no representa un sistema de autenticación seguro para producción.
 
 6. ¿Para qué se usará este login en la Clase 25?
 
 Respuesta:
+En la Clase 25 se usará para probar el middleware simple, que verifica si existe un token válido antes de permitir el acceso a la ruta protegida de revisión editorial pedagógica.

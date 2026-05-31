@@ -1,8 +1,8 @@
 Pruebas de middleware simple – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Yary Caicedo
+Fecha: 20-05-2026
+Nombre de la rama: yary_caicedo
 
 Importante:
 Este middleware es pedagógico. No representa seguridad real de producción.
@@ -16,9 +16,13 @@ Resultado esperado:
 El sistema debe negar el acceso o indicar que falta token.
 
 Resultado observado:
+El sistema negó el acceso inicialmente y solicitó el token de demostración.
 
 ¿Funcionó?
+Sí.
+
 Respuesta:
+El middleware bloquea el acceso cuando no existe token en la petición.
 
 Prueba 2: Login pedagógico
 
@@ -32,9 +36,13 @@ Resultado esperado:
 El sistema responde login pedagógico correcto y guarda token de demostración.
 
 Resultado observado:
+El sistema mostró “login pedagógico correcto” y guardó el token en el navegador.
 
 ¿Funcionó?
+Sí.
+
 Respuesta:
+El login genera un token de demostración que se almacena en localStorage.
 
 Prueba 3: Ruta protegida después del login
 
@@ -45,24 +53,33 @@ Resultado esperado:
 El sistema permite ver la respuesta de revisión editorial pedagógica.
 
 Resultado observado:
+Se mostró el mensaje de acceso permitido con recomendaciones editoriales.
 
 ¿Funcionó?
+Sí.
+
 Respuesta:
+El middleware permitió el acceso porque el token era válido.
 
 Prueba 4: Token incorrecto
 
 Explica qué debería pasar si el token no coincide con el esperado.
 
 Respuesta:
+El sistema debe rechazar el acceso con error 403 y mostrar mensaje de token inválido.
 
 5. ¿Qué hace el middleware simple?
 
 Respuesta:
+Revisa si existe un token en la petición y valida si es correcto antes de permitir el acceso a una ruta.
 
 6. ¿Por qué este middleware no debe confundirse con seguridad real?
 
 Respuesta:
+Porque es solo pedagógico, no cifra información ni protege realmente un sistema en producción.
 
 7. ¿Qué aprendiste sobre rutas públicas y rutas protegidas?
 
 Respuesta:
+Las rutas públicas se pueden acceder sin autenticación, mientras que las rutas protegidas requieren un token válido para acceder.
+

@@ -1,67 +1,65 @@
 Checklist final del mini-sitio – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
-
-Marca SÍ o NO y explica brevemente.
+Nombre del estudiante: Yary Caicedo
+Fecha: 20-05-2026
+Nombre de la rama: yary_caicedo
 
 1. Mini-sitio
 
 ¿El mini-sitio abre correctamente en http://localhost:3000?
 
-Respuesta:
+Respuesta: SÍ. El mini-sitio abrió correctamente en el navegador y mostró todas las secciones del proyecto.
 
 2. API propia
 
 ¿El mini-sitio consume datos desde la API propia?
 
-Respuesta:
+Respuesta: SÍ. Los datos de mensajes, calendario y resumen fueron consultados desde las rutas de la API propia del proyecto.
 
 3. Tablero de mensajes
 
 ¿Los mensajes se cargan dinámicamente?
 
-Respuesta:
+Respuesta: SÍ. Al hacer clic en "Cargar mensajes" se mostraron los mensajes obtenidos desde la ruta /api/mensajes.
 
 4. Calendario editorial
 
 ¿El calendario editorial se muestra correctamente?
 
-Respuesta:
+Respuesta: SÍ. Se visualizaron las seis piezas editoriales organizadas por semana, día, tema y propósito.
 
 5. Resumen
 
 ¿La sección de resumen carga información desde el backend?
 
-Respuesta:
+Respuesta: SÍ. El resumen mostró correctamente el total de mensajes, total de piezas y categorías obtenidas desde /api/resumen.
 
 6. Login pedagógico
 
 ¿El login pedagógico responde correctamente?
 
-Respuesta:
+Respuesta: SÍ. Con el usuario docente y la clave demo apareció el mensaje "Login pedagógico correcto".
 
 7. Middleware simple
 
 ¿La ruta protegida responde solo después de usar el token de demostración?
 
-Respuesta:
+Respuesta: SÍ. Después del login pedagógico fue posible acceder a la revisión editorial protegida mediante el token almacenado en el navegador.
 
 8. Accesibilidad mínima
 
 ¿La interfaz tiene títulos, secciones y textos legibles?
 
-Respuesta:
+Respuesta: SÍ. El sitio presenta encabezados, secciones identificadas y textos claros para facilitar la navegación.
 
 9. Minimización de datos visibles
 
 ¿La vista pública evita mostrar datos innecesarios?
 
-Respuesta:
+Respuesta: SÍ. Solo se muestran datos relevantes para la comunidad y no se exponen credenciales ni información sensible.
 
 10. Funcionamiento general
 
 ¿El proyecto funciona como una herramienta comunitaria básica?
 
-Respuesta:
+Respuesta: SÍ. El mini-sitio integra frontend, backend, API propia, calendario editorial, login pedagógico y revisión editorial para apoyar la comunicación comunitaria responsable.

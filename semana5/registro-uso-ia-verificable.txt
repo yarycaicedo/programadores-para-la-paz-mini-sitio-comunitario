@@ -1,8 +1,8 @@
 Registro de uso verificable de IA – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Yary Caicedo
+Fecha: 19/05/2026
+Nombre de la rama: yary_caicedo
 
 Importante:
 La IA puede ayudar a mejorar claridad, ordenar pasos y revisar redacción, pero toda sugerencia debe verificarse en el proyecto real.
@@ -18,32 +18,37 @@ No debes compartir con IA:
 1. ¿Para qué usaste IA en esta clase?
 Ejemplos: mejorar README, organizar pasos de ejecución, aclarar error, revisar redacción.
 
-Respuesta:
+Respuesta: usé IA para revisar la redacción del README y mejorar la claridad de algunos pasos del procedimiento de ejecución.
 
 2. Escribe la pregunta que hiciste a la IA:
 
 Respuesta:
+¿Cómo puedo explicar de forma clara el propósito de un proyecto comunitario en un README?
 
 3. Resume la respuesta recibida:
 
-Respuesta:
+Respuesta: la IA sugirió iniciar con una descripción breve del propósito, seguida de los pasos de instalación y una nota sobre seguridad para no publicar datos sensibles.
 
 4. ¿Qué parte de la respuesta aplicaste?
 
-Respuesta:
+Respuesta: apliqué la estructura de descripción breve y la nota de seguridad, adaptándolas al lenguaje del proyecto.
 
 5. ¿Qué parte decidiste no aplicar?
 
-Respuesta:
+Respuesta: no apliqué sugerencias de formato avanzado porque el README del proyecto debe mantenerse simple y pedagógico.
 
 6. ¿Cómo verificaste en el proyecto que la sugerencia era correcta?
 
-Respuesta:
+Respuesta: leí el README completo y comprobé que los pasos descritos coincidían con el funcionamiento real del proyecto en el navegador.
 
 7. ¿Incluiste datos sensibles o credenciales reales en la consulta?
 
-Respuesta:
+Respuesta: no. La consulta fue general y no incluyó contraseñas, tokens, datos personales ni información sensible.
 
 8. ¿Qué aprendiste sobre uso responsable de IA?
 
-Respuesta:
+Respuesta: aprendí que la IA es útil para mejorar redacción y claridad, pero que siempre hay que verificar sus sugerencias en el proyecto real y nunca compartir información sensible en las consultas.
+
+
+
+
