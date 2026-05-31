@@ -1,10 +1,8 @@
 Procedimiento de ejecución del proyecto – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
-
-Escribe el procedimiento para que otra persona pueda ejecutar el proyecto.
+Nombre del estudiante: Yary Caicedo
+Fecha: 19/05/2026
+Nombre de la rama: yary_caicedo
 
 1. Requisitos del entorno
 
@@ -13,11 +11,15 @@ Ejemplos: Git, Node.js, navegador, editor de código.
 
 Respuesta:
 
+La persona debe tener instalado Git, Node.js, un navegador web moderno y un editor de código como Visual Studio Code.
+
 2. Clonar repositorio
 
 Comando:
 
 Respuesta:
+
+git clone URL_DEL_REPOSITORIO
 
 3. Entrar a la carpeta del proyecto
 
@@ -25,11 +27,19 @@ Comando:
 
 Respuesta:
 
+cd programadores-para-la-paz-mini-sitio-comunitario
+
 4. Crear o cambiar a rama personal
 
 Comando:
 
 Respuesta:
+
+git checkout -b nombres_apellidos
+
+o
+
+git checkout nombres_apellidos
 
 5. Instalar dependencias
 
@@ -37,11 +47,15 @@ Comando:
 
 Respuesta:
 
+npm install
+
 6. Ejecutar el proyecto
 
 Comando:
 
 Respuesta:
+
+npm run sitio
 
 7. Abrir en navegador
 
@@ -49,19 +63,33 @@ Dirección:
 
 Respuesta:
 
+http://localhost:3000
+
 8. Probar rutas de la API
 
 Escribe las rutas que se deben probar:
 
 Respuesta:
 
+http://localhost:3000/api/mensajes
+
+http://localhost:3000/api/calendario
+
+http://localhost:3000/api/resumen
+
 9. Probar login pedagógico
 
 Usuario de demostración:
 
+docente
+
 Clave de demostración:
 
+demo
+
 Resultado esperado:
+
+El sistema muestra el mensaje "Login pedagógico correcto. Ya puedes probar la ruta protegida."
 
 10. Verificación final
 
@@ -69,8 +97,12 @@ Resultado esperado:
 
 Respuesta:
 
+El proyecto funciona correctamente cuando el servidor inicia sin errores, las rutas de la API responden datos JSON, el tablero carga información dinámica y el login pedagógico responde correctamente.
+
 11. Nota de seguridad
 
 ¿Qué información NO debe publicarse?
 
 Respuesta:
+
+No se deben publicar contraseñas reales, tokens reales, datos personales, credenciales privadas, información sensible de la comunidad ni contenido sin verificar.
